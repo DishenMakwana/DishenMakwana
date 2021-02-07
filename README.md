@@ -60,13 +60,12 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-<br/ >
+</br>
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DishenMakwana&repo=
-Algorithms-Implement-In-CPP)](https://github.com/anuraghazra/github-readme-stats)
-<br/ >
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DishenMakwana&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 
 [twitter]: https://twitter.com/DishenM
 [instagram]: https://instagram.com/i_dishen_
