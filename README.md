@@ -39,12 +39,8 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+![Dishen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-  <img align="left" alt="Dishen's GitHub Stats" src="https://github-readme-stats.DishenMakwana.vercel.app/api?username=DishenMakwana&show_icons=true&hide_border=true" />
-
-</details>
 
 ---
 
