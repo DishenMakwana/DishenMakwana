@@ -17,10 +17,6 @@
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website] : https://verywellhealth.herokuapp.com
-[twitter]: https://twitter.com/DishenM
-[instagram]: https://instagram.com/i_dishen_
-[linkedin]: https://linkedin.com/in/dishen-makwana
 <br />
 
 ---
@@ -64,3 +60,14 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+[website] : https://verywellhealth.herokuapp.com
+[twitter]: https://twitter.com/DishenM
+[instagram]: https://instagram.com/i_dishen_
+[linkedin]: https://linkedin.com/in/dishen-makwana
+[course]: http://vsCodeHero.com
+[youtube]: https://youtube.com/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
