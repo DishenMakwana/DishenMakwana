@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Dishen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&hide_border=true" />
+  <img align="left" alt="Dishen's GitHub Stats" src="https://github-readme-stats.DishenMakwana.vercel.app/api?username=DishenMakwana&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -51,4 +51,3 @@
 [twitter]: https://twitter.com/DishenM
 [instagram]: https://instagram.com/i_dishen_
 [linkedin]: https://linkedin.com/in/dishen-makwana
-[geekforgeek] : https://auth.geeksforgeeks.org/user/dishenmakwana/profile
