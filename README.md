@@ -10,7 +10,7 @@
 
 <br />
 
----
+### Languages
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -26,14 +26,11 @@
 ---
 
 ![Dishen's github stats](https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&locale=en&count_private=true)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&locale=en&count_private=true" alt="Dishen Makwana" /></p>
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DishenMakwana&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DishenMakwana&show_icons=true&locale=en&layout=compact" alt="Dishen Makwana" /></p>
 <br />
-<br />
-[![Scores](https://github-readme-streak-stats.herokuapp.com/?user=DishenMakwana)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DishenMakwana&" alt="Dishen Makwana" /></p>
 <br />
 
@@ -49,8 +46,6 @@
 
 <br />
 
----
-
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -60,8 +55,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DishenMakwana&repo=Algorithms-Implement-In-CPP)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-
-[twitter]: https://twitter.com/DishenM
-[instagram]: https://instagram.com/i_dishen_
-[linkedin]: https://linkedin.com/in/dishen-makwana
-[website]: https://verywellhealth.herokuapp.com
