@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dishen Makwana</h1>
 <h3 align="center">Creative web developer dedicated to building websites with complex backend by integrating heavy modules such as Deep Learning, Data Visualisation and optimizing the performance of user-centric functionalites using Django framework.</h3>
 
----
 
 - 🌱 I’m currently learning **Everything**
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love todo coding and play cricket.
 
-</br>
-
----
+<br />
 
 ### Connect with me:
 
@@ -20,8 +17,7 @@
 [twitter]: https://twitter.com/DishenM
 [instagram]: https://instagram.com/i_dishen_
 [linkedin]: https://linkedin.com/in/dishen-makwana
-
-</br>
+<br />
 
 ---
 
@@ -49,16 +45,10 @@
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&locale=en" alt="Dishen Makwana" /></p>
-</br>
-
----
+<br />
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DishenMakwana&show_icons=true&locale=en&layout=compact" alt="Dishen Makwana" /></p>
-</br>
-
----
+<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DishenMakwana&" alt="Dishen Makwana" /></p>
-</br>
-
----
+<br />
