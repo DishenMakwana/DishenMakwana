@@ -1,8 +1,7 @@
-### Hi there, I'm Dishen 👋
+<h1 align="center">Hi 👋, I'm Dishen Makwana</h1>
+<h3 align="center">Creative web developer dedicated to building websites with complex backend by integrating heavy modules such as Deep Learning, Data Visualisation and optimizing the performance of user-centric functionalites using Django framework.</h3>
 
-## I'm a Learner, Developer!!
-
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning **Everything**
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love todo coding and play cricket.
 
@@ -47,3 +46,14 @@
 [twitter]: https://twitter.com/DishenM
 [instagram]: https://instagram.com/i_dishen_
 [linkedin]: https://linkedin.com/in/dishen-makwana
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dishen-makwana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Dishen Makwana" height="30" width="40" /></a>
+<a href="https://www.instagram.com/i_dishen_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="phineas_1829" height="30" width="40" /></a>
+</p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DishenMakwana&show_icons=true&locale=en&layout=compact" alt="Dishen Makwana" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&locale=en" alt="Dishen Makwana" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DishenMakwana&" alt="Dishen Makwana" /></p>
