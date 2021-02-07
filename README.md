@@ -45,7 +45,7 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&locale=en" alt="Dishen Makwana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&locale=en&count_private=true" alt="Dishen Makwana" /></p>
 <br />
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DishenMakwana&show_icons=true&locale=en&layout=compact" alt="Dishen Makwana" /></p>
@@ -60,7 +60,31 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<br/ >
 
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DishenMakwana&repo=
+Algorithms-Implement-In-CPP)](https://github.com/DishenMakwana/Algorithms-Implement-In-CPP)
+<br/ >
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DishenMakwana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DishenMakwana&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DishenMakwana&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DishenMakwana&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 [twitter]: https://twitter.com/DishenM
 [instagram]: https://instagram.com/i_dishen_
 [linkedin]: https://linkedin.com/in/dishen-makwana
