@@ -65,26 +65,9 @@
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DishenMakwana&repo=
-Algorithms-Implement-In-CPP)](https://github.com/DishenMakwana/Algorithms-Implement-In-CPP)
+Algorithms-Implement-In-CPP)](https://github.com/anuraghazra/github-readme-stats)
 <br/ >
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DishenMakwana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DishenMakwana&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DishenMakwana&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DishenMakwana&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
----
 [twitter]: https://twitter.com/DishenM
 [instagram]: https://instagram.com/i_dishen_
 [linkedin]: https://linkedin.com/in/dishen-makwana
