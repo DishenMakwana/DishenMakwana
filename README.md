@@ -11,6 +11,10 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[twitter]: https://twitter.com/DishenM
+[instagram]: https://instagram.com/i_dishen_
+[linkedin]: https://linkedin.com/in/dishen-makwana
+
 </br>
 
 ---
@@ -38,13 +42,7 @@
 
 ---
 
-![Dishen's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=DishenMakwana&show_icons=true&locale=en&layout=compact)
-
----
-
-[twitter]: https://twitter.com/DishenM
-[instagram]: https://instagram.com/i_dishen_
-[linkedin]: https://linkedin.com/in/dishen-makwana
+![Dishen's GitHub Stats]https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&locale=en)
 
 ---
 
