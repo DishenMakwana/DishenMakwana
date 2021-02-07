@@ -1,9 +1,10 @@
 ### Hi there, I'm Dishen 👋
 
 ## I'm a Learner, Developer!!
-🌱 I’m currently learning everything 🤣
-🥅 2021 Goals: Contribute more to Open Source projects
-⚡ Fun fact: I love todo coding and play cricket.
+
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love todo coding and play cricket.
 
 ### Connect with me:
 
