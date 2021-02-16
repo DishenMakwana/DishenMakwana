@@ -123,3 +123,11 @@
 /api?username=DishenMakwana&show_icons=true&hide_border=true" />
 
 </details> -->
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
