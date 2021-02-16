@@ -5,7 +5,7 @@
 </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DishenMakwana" alt="DishenMakwana" /> </p>
-![Twitter Follow](https://img.shields.io/twitter/follow/DishenM?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/DishenM?color=%231DA1F2&logo=Twitter&style=for-the-badge) -->
 </br>
 
 - 🌱 I’m currently learning **Everything**
@@ -116,10 +116,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="DishenMakwana's GitHub Stats" src="https://github-readme-stats.dishenmakwana.vercel.app
 /api?username=DishenMakwana&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
