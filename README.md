@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dishen Makwana</h1>
-<h3 align="center">Creative web developer dedicated to building websites with complex backend by integrating heavy modules such as Deep Learning, Data Visualisation and optimizing the performance of user-centric functionalites using Django framework.</h3>
+<h3 align="center">Creative web developer dedicated to building websites with complex backend by integrating heavy modules and optimizing the performance of user-centric functionalites using JavaScript for Frontend and Django and NodeJs for Backend.</h3>
 
 </br>
 </br>
@@ -104,3 +104,13 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DishenMakwana&repo=Algorithms-Implement-In-CPP)](https://github.com/anuraghazra/github-readme-stats)
 </br> -->
+
+<br>
+<br>
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
