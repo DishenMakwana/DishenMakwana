@@ -57,6 +57,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DishenMakwana&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DishenMakwana)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DishenMakwana&" alt="Dishen Makwana" /></p>
 <br />
@@ -114,15 +116,6 @@
 <!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="DishenMakwana's GitHub Stats" src="https://github-readme-stats.dishenmakwana.vercel.app
-/api?username=DishenMakwana&show_icons=true&hide_border=true" />
-
-</details> -->
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
