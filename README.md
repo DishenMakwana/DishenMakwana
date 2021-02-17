@@ -48,8 +48,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DishenMakwana&show_icons=true&locale=en&layout=compact&langs_count=10&)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-<!-- [![DishenMakwana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DishenMakwana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br> -->
+[![DishenMakwana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DishenMakwana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DishenMakwana&" alt="Dishen Makwana" /></p>
 <br />
