@@ -2,10 +2,10 @@
 <h3 align="center">Creative web developer dedicated to building websites with complex backend by integrating heavy modules and optimizing the performance of user-centric functionalites using JavaScript for Frontend and Django and NodeJs for Backend.</h3>
 
 </br>
-</br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DishenMakwana" alt="DishenMakwana" /> </p>
-<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/DishenM?color=%231DA1F2&logo=Twitter&style=for-the-badge) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DishenMakwana" alt="DishenMakwana" /> </p> &nbsp;
+![Twitter Follow](https://img.shields.io/twitter/follow/DishenM?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+
 </br>
 
 - 🌱 I’m currently learning **Everything**
@@ -39,15 +39,6 @@
 
 </p>
 
-<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
-
 </br>
 
 ---
@@ -57,6 +48,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DishenMakwana&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DishenMakwana)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
@@ -64,11 +56,6 @@
 <br />
 
 ---
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-</br>
 
 ### Connect with me:
 
@@ -96,20 +83,15 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>   -->
 </div>
+<br>
 
-<!-- <a href="mailto:dishenmakwana.dm@gmail.com"><img align="left" alt="Dishen | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://verywellhealth.herokuapp.com"><img align="left" alt="Dishen | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://twitter.com/DishenM"><img align="left" alt="Dishen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://linkedin.com/in/dishen-makwana"><img align="left" alt="Dishen | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://instagram.com/i_dishen_"><img align="left" alt="Dishen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a> -->
+### Spotify Playing 🎧
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 </br>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DishenMakwana&repo=Algorithms-Implement-In-CPP)](https://github.com/anuraghazra/github-readme-stats)
 </br> -->
-
-<br>
-<br>
 
 ---
 
