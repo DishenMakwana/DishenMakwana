@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DishenMakwana" alt="DishenMakwana" /> </p> &nbsp;
 ![Twitter Follow](https://img.shields.io/twitter/follow/DishenM?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/DishenM?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 
 </br>
 
@@ -46,10 +47,10 @@
 ![Dishen's github stats](https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&locale=en&count_private=true)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DishenMakwana&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DishenMakwana&show_icons=true&locale=en&layout=compact&langs_count=10&)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DishenMakwana)](https://github.com/anuraghazra/github-readme-stats)
+[![DishenMakwana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DishenMakwana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DishenMakwana&" alt="Dishen Makwana" /></p>
