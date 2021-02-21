@@ -3,17 +3,17 @@
 
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DishenMakwana" alt="DishenMakwana" /> </p> &nbsp;
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DishenMakwana" alt="DishenMakwana" /> </p> &nbsp;
 
 </br>
 
-- 🌱 I’m currently learning **Everything**
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning **Everything**.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn new skills and play cricket.
 
 <br />
 
-### Tech Stack:
+### Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -30,17 +30,15 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 <!-- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> -->
-<!-- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Graph--ql-0081CB?style=for-the-badge&logo=graphql&logoColor=e535ab"/> -->
 
 </p>
 
 </br>
 
----
+<!-- --- -->
 
 ![Dishen's github stats](https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&locale=en&count_private=true)
 <br />
@@ -48,15 +46,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DishenMakwana&show_icons=true&locale=en&layout=compact&langs_count=10&)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-[![DishenMakwana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DishenMakwana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![DishenMakwana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dishen)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DishenMakwana&" alt="Dishen Makwana" /></p>
 <br />
 
----
+<!-- --- -->
 
-### Connect with me:
+### Connect with me
 
 <div align="center">
 <a href="https://github.com/DishenMakwana" target="_blank">
@@ -92,7 +90,7 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DishenMakwana&repo=Algorithms-Implement-In-CPP)](https://github.com/anuraghazra/github-readme-stats)
 </br> -->
 
----
+<!-- --- -->
 
 <!-- ### 📕 Latest Blog Posts -->
 
