@@ -88,10 +88,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/dhruv-vachhani/Sports-Academy-Info/pull/14) in [dhruv-vachhani/Sports-Academy-Info](https://github.com/dhruv-vachhani/Sports-Academy-Info)
-2. 🎉 Merged PR [#1](https://github.com/DishenMakwana/Sports-Academy-Info/pull/1) in [DishenMakwana/Sports-Academy-Info](https://github.com/DishenMakwana/Sports-Academy-Info)
-3. 💪 Opened PR [#1](https://github.com/DishenMakwana/Sports-Academy-Info/pull/1) in [DishenMakwana/Sports-Academy-Info](https://github.com/DishenMakwana/Sports-Academy-Info)
-4. 💪 Opened PR [#13](https://github.com/dhruv-vachhani/Sports-Academy-Info/pull/13) in [dhruv-vachhani/Sports-Academy-Info](https://github.com/dhruv-vachhani/Sports-Academy-Info)
+1. 💪 Opened PR [#8687](https://github.com/education/GitHubGraduation-2021/pull/8687) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+2. 💪 Opened PR [#14](https://github.com/dhruv-vachhani/Sports-Academy-Info/pull/14) in [dhruv-vachhani/Sports-Academy-Info](https://github.com/dhruv-vachhani/Sports-Academy-Info)
+3. 🎉 Merged PR [#1](https://github.com/DishenMakwana/Sports-Academy-Info/pull/1) in [DishenMakwana/Sports-Academy-Info](https://github.com/DishenMakwana/Sports-Academy-Info)
+4. 💪 Opened PR [#1](https://github.com/DishenMakwana/Sports-Academy-Info/pull/1) in [DishenMakwana/Sports-Academy-Info](https://github.com/DishenMakwana/Sports-Academy-Info)
 <!--END_SECTION:activity-->
 
 </details>
