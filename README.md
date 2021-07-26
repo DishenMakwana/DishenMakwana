@@ -97,7 +97,14 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+<<<<<<< HEAD
 
+=======
+1. 💪 Opened PR [#8687](https://github.com/education/GitHubGraduation-2021/pull/8687) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+2. 💪 Opened PR [#14](https://github.com/dhruv-vachhani/Sports-Academy-Info/pull/14) in [dhruv-vachhani/Sports-Academy-Info](https://github.com/dhruv-vachhani/Sports-Academy-Info)
+3. 🎉 Merged PR [#1](https://github.com/DishenMakwana/Sports-Academy-Info/pull/1) in [DishenMakwana/Sports-Academy-Info](https://github.com/DishenMakwana/Sports-Academy-Info)
+4. 💪 Opened PR [#1](https://github.com/DishenMakwana/Sports-Academy-Info/pull/1) in [DishenMakwana/Sports-Academy-Info](https://github.com/DishenMakwana/Sports-Academy-Info)
+>>>>>>> e9569b6d1c951227a3396b53e5606a5c8e096584
 <!--END_SECTION:activity-->
 
 </details>
