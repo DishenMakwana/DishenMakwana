@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.</h3>
 
----
-
 [<img align="right" alt="DishenMakwana | GIF" src="./tenor_setup.gif"/>]()
 
 ### <img align="left" alt="DishenMakwana | GIF" src="./Developer.gif" width="45px"/> About Me:
@@ -12,8 +10,6 @@
 -   👯 I’m looking to collaborate with other Developers for cool project stuff.
 -   🥅 2021 Goals: Contribute more to Open Source projects.
 -   ⚡ Fun fact: I love to learn new skills and play cricket.
-
----
 
 ### 🧰 Languages and Tools:
 
@@ -25,19 +21,20 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Mongo--db-4DB33D?style=for-the-badge&logo=mongodb&logoColor=green)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<!-- ![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase) -->
+<!-- ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) -->
+<!-- ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
 
 <!-- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> -->
 <!-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) -->
@@ -45,15 +42,22 @@
 <!-- ![GraphQL](https://img.shields.io/badge/Graph--ql-0081CB?style=for-the-badge&logo=graphql&logoColor=e535ab) -->
 <!-- ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
 
----
+<!-- <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> -->
 
 ![Dishen's github stats](https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&locale=en&theme=dark&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DishenMakwana&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=10&)
 
 ![About Me](https://github-readme-streak-stats.herokuapp.com/?user=DishenMakwana&theme=dark)
-
----
 
 ### ✉️ Connect with me:
 
@@ -91,8 +95,6 @@
 
 <!-- [<img align="" width=600px alt="DishenMakwana | GIF" src="./code.gif"/>]() -->
 
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -106,7 +108,5 @@
 <!--END_SECTION:activity-->
 
 </details>
-
----
 
 ![profile view](https://komarev.com/ghpvc/?username=DishenMakwana)
