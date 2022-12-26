@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Dishen Makwana</h1>
 
-<h3 align="center">A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[<img align="right" alt="DishenMakwana | GIF" src="./tenor_setup.gif"/>]()
+### About Me
 
-### <img align="left" alt="DishenMakwana | GIF" src="./Developer.gif" width="45px"/> About Me:
+- 🏦 I’m currently working on **NestJS**, **Docker**, **Microservices**, **AWS**, **SQL**.
+- ⚡ I'm currently learning **Kubernetes**, **GoLang**, **Java-Spring**.
+- 📫 Ask me about Nodejs, Express, Nestjs, Prisma, MongoDB, PostgresSQL, MySQl, Docker, AWS, Typescript, Git, Github, REST API, Microservices, etc.
 
--   🏦 I’m currently learning about **NodeJS**, **Express**, **ReactJS**, **MongoDB**.
--   👯 I’m looking to collaborate with other Developers for cool project stuff.
--   🥅 2021 Goals: Contribute more to Open Source projects.
--   ⚡ Fun fact: I love to learn new skills and play cricket.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🧰 Languages and Tools:
+### 🧰 Languages and Tools
+
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -31,27 +33,18 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-<!-- ![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase) -->
-<!-- ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) -->
-<!-- ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
-
-<!-- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> -->
-<!-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) -->
-<!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud) -->
-<!-- ![GraphQL](https://img.shields.io/badge/Graph--ql-0081CB?style=for-the-badge&logo=graphql&logoColor=e535ab) -->
-<!-- ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
-
-<!-- <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![Dishen's github stats](https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&locale=en&theme=dark&count_private=true)
 
@@ -59,9 +52,11 @@
 
 ![About Me](https://github-readme-streak-stats.herokuapp.com/?user=DishenMakwana&theme=dark)
 
-### ✉️ Connect with me:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+### ✉️ Connect with me
+
+<div align="left">
 <a href="mailto:dishenmakwana.dm@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -69,43 +64,21 @@
 <a href="https://github.com/DishenMakwana" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://twitter.com/DishenM" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-</a>
-<!-- <a href="https://stackoverflow.com/users/15161894/dishen-makwana" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a> -->
+
 <a href="https://linkedin.com/in/dishen-makwana" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<!-- <a href="https://www.facebook.com/pragati.verma.56863221" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a> -->
+
 <a href="https://instagram.com/i_dishen_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<!-- <a href="https://medium.com/@itispragativerma" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>   -->
 </div>
-<!-- --- -->
 
-<!-- ### <img align="left" alt="DishenMakwana | GIF" src="Developer.gif" width="45px"/> Competitive Programming: -->
-
-<!-- [<img align="" width=600px alt="DishenMakwana | GIF" src="./code.gif"/>]() -->
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#8687](https://github.com/education/GitHubGraduation-2021/pull/8687) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-2. 💪 Opened PR [#14](https://github.com/dhruv-vachhani/Sports-Academy-Info/pull/14) in [dhruv-vachhani/Sports-Academy-Info](https://github.com/dhruv-vachhani/Sports-Academy-Info)
-3. 🎉 Merged PR [#1](https://github.com/DishenMakwana/Sports-Academy-Info/pull/1) in [DishenMakwana/Sports-Academy-Info](https://github.com/DishenMakwana/Sports-Academy-Info)
-4. 💪 Opened PR [#1](https://github.com/DishenMakwana/Sports-Academy-Info/pull/1) in [DishenMakwana/Sports-Academy-Info](https://github.com/DishenMakwana/Sports-Academy-Info)
-
-<!--END_SECTION:activity-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </details>
 
