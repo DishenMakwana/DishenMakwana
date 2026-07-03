@@ -300,7 +300,7 @@ Designed and delivered end-to-end backend solutions across multiple client proje
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=DishenMakwana&theme=tokyonight&no-frame=true&column=-1&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="./assets/trophies.svg" alt="GitHub Trophies" />
 </p>
 
 ---
