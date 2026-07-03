@@ -297,14 +297,6 @@ Designed and delivered end-to-end backend solutions across multiple client proje
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="./assets/trophies.svg" alt="GitHub Trophies" />
-</p>
-
----
-
 ## Contribution Activity
 
 <p align="center">
