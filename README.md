@@ -278,13 +278,21 @@ Designed and delivered end-to-end backend solutions across multiple client proje
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DishenMakwana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=6D28D9&text_color=C9D1D9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishenMakwana&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&layout=compact&langs_count=10" width="49%" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-dishenmakwana.vercel.app/api?username=DishenMakwana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=6D28D9&text_color=C9D1D9&cache_seconds=86400" alt="Dishen's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-dishenmakwana.vercel.app/api/top-langs/?username=DishenMakwana&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&layout=compact&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DishenMakwana&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=6D28D9&fire=5B21B6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=8B949E" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=DishenMakwana&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=6D28D9&fire=5B21B6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=8B949E" alt="GitHub Streak" width="60%" />
 </p>
 
 ---
@@ -292,7 +300,7 @@ Designed and delivered end-to-end backend solutions across multiple client proje
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DishenMakwana&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  <img src="https://github-trophies.vercel.app/?username=DishenMakwana&theme=tokyonight&no-frame=true&column=-1&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </p>
 
 ---
